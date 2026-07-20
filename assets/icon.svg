@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Wrapped app icon</title>
+  <rect width="1024" height="1024" fill="#EF4E3B"/>
+  <g transform="translate(24 24)" fill="#090909">
+    <path d="M150 180h180l95 410 87-290 87 290 95-410h180L724 800H570l-58-185-58 185H300L150 180Z"/>
+  </g>
+  <path fill="#C4EE45" d="M150 180h180l95 410 87-290 87 290 95-410h180L724 800H570l-58-185-58 185H300L150 180Z"/>
+</svg>
