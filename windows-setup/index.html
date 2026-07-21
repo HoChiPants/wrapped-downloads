@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Install and pair the Wrapped Windows companion with Wrapped on iPhone.">
+  <link rel="icon" href="../favicon.ico">
+  <link rel="stylesheet" href="../assets/styles.css">
+  <title>Windows setup — Wrapped</title>
+</head>
+<body class="document-page">
+  <main class="document-shell">
+    <a class="back-link" href="../">← Download page</a>
+    <h1>Set up Wrapped on Windows.</h1>
+    <p class="updated">About five minutes after your iPhone has a local backup.</p>
+
+    <section>
+      <h2>1. Back up your iPhone</h2>
+      <ol>
+        <li>Install or open <strong>Apple Devices</strong> on your Windows PC.</li>
+        <li>Connect your iPhone with a cable and approve <strong>Trust This Computer</strong> if asked.</li>
+        <li>In Apple Devices, select your iPhone and choose <strong>Back up all of the data on your iPhone to this computer</strong>.</li>
+        <li>Select <strong>Back Up Now</strong> and wait for it to finish.</li>
+      </ol>
+      <p>If you encrypt the backup, remember the password. Wrapped can open an encrypted backup only after you enter that password locally.</p>
+    </section>
+
+    <section>
+      <h2>2. Open the Windows companion</h2>
+      <ol>
+        <li><a href="../downloads/Wrapped-for-Windows.exe" download>Download Wrapped for Windows</a>.</li>
+        <li>Open <strong>Wrapped-for-Windows.exe</strong>. It runs directly; there is no installer wizard.</li>
+        <li>If Microsoft Defender SmartScreen appears, select <strong>More info</strong>, verify that the app is from this official download page, then select <strong>Run anyway</strong>.</li>
+        <li>Choose your newest backup. Enter its backup password if the app requests it.</li>
+      </ol>
+      <p>This beta is not code-signed yet. Its SHA-256 checksum is <code>a31272fec09f977053faaa71888fa0b57c6df7edcd7a94715d522ba9b93153e8</code>.</p>
+    </section>
+
+    <section>
+      <h2>3. Choose conversations</h2>
+      <ol>
+        <li>Select the conversations you want to use.</li>
+        <li>Start the secure connection and keep the companion open.</li>
+        <li>Leave the 12-character pairing code visible.</li>
+      </ol>
+      <p>Wrapped reads the backup locally and sends only the conversations you select through an encrypted connection on your local network.</p>
+    </section>
+
+    <section>
+      <h2>4. Pair your iPhone</h2>
+      <ol>
+        <li>Put the Windows PC and iPhone on the same Wi-Fi network.</li>
+        <li>On the iPhone, open Wrapped and choose <strong>Connect your computer</strong>.</li>
+        <li>Allow Local Network access if iOS asks.</li>
+        <li>Select your PC, enter the code, and choose <strong>Pair securely</strong>.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>If messages are missing</h2>
+      <p>Apple can omit Messages from a computer backup when Messages in iCloud is enabled. If the companion reports this, review <a href="https://support.apple.com/guide/icloud/set-up-messages-mm0de0d4528d/icloud">Apple’s Messages in iCloud guidance</a>, then create a new local backup after the messages are stored on the iPhone.</p>
+    </section>
+
+    <section>
+      <h2>If your PC does not appear</h2>
+      <ul>
+        <li>Confirm both devices are on the same Wi-Fi network.</li>
+        <li>Keep both Wrapped apps open.</li>
+        <li>Check that Local Network access is enabled for Wrapped on the iPhone.</li>
+        <li>Allow Wrapped through Windows Firewall if Windows asks.</li>
+        <li>Turn off a VPN temporarily if it blocks local-device discovery.</li>
+      </ul>
+      <p><a href="https://github.com/HoChiPants/wrapped-downloads/issues">Open a support issue</a> without including private messages, backup passwords, access tokens, or payment information.</p>
+    </section>
+  </main>
+</body>
+</html>

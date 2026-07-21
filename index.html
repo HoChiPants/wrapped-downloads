@@ -3,20 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Download the signed and notarized Wrapped companion for Mac.">
+  <meta name="description" content="Download the Wrapped companion for Mac or Windows and privately bring selected messages to your iPhone.">
   <meta name="theme-color" content="#deddd9">
-  <meta property="og:title" content="Wrapped for Mac">
-  <meta property="og:description" content="Private, on-device message analysis. Download the signed Mac companion.">
+  <meta property="og:title" content="Wrapped for Mac and Windows">
+  <meta property="og:description" content="Private, on-device message analysis. Download the companion for your computer.">
   <meta property="og:image" content="https://hochipants.github.io/wrapped-downloads/assets/og.png">
   <link rel="icon" href="./favicon.ico">
   <link rel="stylesheet" href="./assets/styles.css">
-  <title>Wrapped for Mac</title>
+  <title>Wrapped for Mac and Windows</title>
 </head>
 <body>
   <header class="site-header">
     <a class="wordmark" href="./">WRAPPED</a>
     <nav class="site-nav" aria-label="Main navigation">
       <a href="./mac-setup/">Mac setup</a>
+      <a href="./windows-setup/">Windows setup</a>
       <a href="./privacy/">Privacy</a>
       <a href="https://github.com/HoChiPants/wrapped-downloads/issues">Support</a>
     </nav>
@@ -25,24 +26,33 @@
   <main class="download-page">
     <section>
       <img class="product-mark" src="./assets/icon.svg" alt="">
-      <h1>Wrapped for Mac.</h1>
-      <p class="lede">Bring selected Messages conversations to Wrapped on your iPhone over your local network. Your messages are not uploaded to a developer-operated server.</p>
-      <a class="download-button" href="./downloads/Receipts-for-Mac.zip" download>
-        <span>Download for Mac</span>
-        <span aria-hidden="true">↓</span>
-      </a>
-      <p class="build-note">Apple silicon + Intel · Developer ID signed · Notarized by Apple · Free beta</p>
+      <h1>Wrapped for your computer.</h1>
+      <p class="lede">Bring selected Messages conversations to Wrapped on your iPhone over your local network. Your messages stay on your devices.</p>
+      <div class="download-options" aria-label="Computer downloads">
+        <a class="download-choice" href="./downloads/Receipts-for-Mac.zip" download>
+          <span><strong>Download for Mac</strong><small>Apple silicon + Intel · Signed and notarized</small></span>
+          <span aria-hidden="true">↓</span>
+        </a>
+        <a class="download-choice" href="./downloads/Wrapped-for-Windows.exe" download>
+          <span><strong>Download for Windows</strong><small>Windows 10 or 11 · 64-bit · Beta</small></span>
+          <span aria-hidden="true">↓</span>
+        </a>
+      </div>
+      <p class="build-note download-warning">The Windows beta is not code-signed yet, so Microsoft Defender SmartScreen may ask you to confirm before opening it.</p>
     </section>
 
     <section class="setup-panel" aria-labelledby="setup-title">
       <h2 id="setup-title">Start in four steps</h2>
       <ol>
-        <li><span><strong>Download and unzip</strong> the Mac companion.</span></li>
-        <li><span>Move <strong>Wrapped Mac</strong> into Applications and open it.</span></li>
-        <li><span>Use the button in the app to grant <strong>Full Disk Access</strong>.</span></li>
-        <li><span>Open Wrapped on iPhone, choose <strong>Connect your Mac</strong>, and enter the code shown on the Mac.</span></li>
+        <li><span><strong>Download</strong> the companion for your computer.</span></li>
+        <li><span><strong>Open it</strong> and follow the on-screen access steps.</span></li>
+        <li><span>Keep your computer and iPhone on the <strong>same Wi-Fi</strong>.</span></li>
+        <li><span>Open Wrapped on iPhone, choose <strong>Connect your computer</strong>, and enter the code shown.</span></li>
       </ol>
-      <a class="text-link" href="./mac-setup/">Read the complete setup guide →</a>
+      <div class="setup-links">
+        <a class="text-link" href="./mac-setup/">Mac setup guide →</a>
+        <a class="text-link" href="./windows-setup/">Windows setup guide →</a>
+      </div>
     </section>
   </main>
 

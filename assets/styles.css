@@ -77,6 +77,31 @@ h1 { max-width: 680px; margin: 0; color: var(--ink); font-size: clamp(56px, 8vw,
 .download-button span:last-child { color: var(--lime); font-size: 24px; }
 .build-note { margin: 17px 0 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
 
+.download-options {
+  width: min(100%, 500px);
+  margin-top: 34px;
+  border-top: 2px solid var(--ink);
+}
+
+.download-choice {
+  min-height: 80px;
+  padding: 15px 2px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid var(--ink);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.download-choice:hover { padding-left: 10px; background: rgba(244, 241, 234, .58); }
+.download-choice > span:first-child { display: grid; gap: 5px; }
+.download-choice strong { font-size: 18px; letter-spacing: -.02em; }
+.download-choice small { color: var(--muted); font-size: 12px; line-height: 1.4; }
+.download-choice > span:last-child { color: var(--red); font-size: 25px; font-weight: 900; }
+.download-warning { max-width: 500px; }
+
 .setup-panel { border-top: 2px solid var(--ink); }
 .setup-panel h2 { margin: 22px 0 8px; font-size: 24px; letter-spacing: -.03em; }
 .setup-panel ol { margin: 0; padding: 0; list-style: none; counter-reset: setup; }
@@ -94,6 +119,7 @@ h1 { max-width: 680px; margin: 0; color: var(--ink); font-size: clamp(56px, 8vw,
 .setup-panel li::before { content: "0" counter(setup); color: var(--ink); font-size: 12px; font-weight: 900; }
 .setup-panel strong { color: var(--ink); }
 .text-link { display: inline-block; margin-top: 20px; font-size: 14px; font-weight: 800; text-underline-offset: 4px; }
+.setup-links { display: flex; flex-wrap: wrap; gap: 2px 24px; }
 
 .document-page { background: var(--paper); }
 .document-shell { width: min(780px, calc(100% - 40px)); margin: 0 auto; padding: 64px 0 100px; }

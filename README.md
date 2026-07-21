@@ -4,7 +4,10 @@ Public, static distribution site for Wrapped. The application source remains in 
 
 - Website: https://hochipants.github.io/wrapped-downloads/
 - Mac setup: https://hochipants.github.io/wrapped-downloads/mac-setup/
+- Windows setup: https://hochipants.github.io/wrapped-downloads/windows-setup/
 - Privacy: https://hochipants.github.io/wrapped-downloads/privacy/
 - Android privacy: https://hochipants.github.io/wrapped-downloads/android-privacy/
 
 `downloads/Receipts-for-Mac.zip` is replaced automatically after a Mac build is signed, accepted by Apple's notarization service, and stapled by the private build workflow.
+
+`downloads/Wrapped-for-Windows.exe` and its SHA-256 checksum are replaced automatically by tagged Windows builds from the private build workflow.
