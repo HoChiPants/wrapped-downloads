@@ -1,0 +1,67 @@
+conversation,message_date,direction,sender_name,sender_id,text,has_attachment
+App Review Demo,2025-09-05 09:00:00,outgoing,You,you,Good morning! Are we still trying the new cafe today?,false
+App Review Demo,2025-09-05 09:03:00,incoming,Taylor,taylor,Yes! I can meet you there at ten.,false
+App Review Demo,2025-09-05 09:04:00,outgoing,You,you,Perfect. I will grab a table by the window.,false
+App Review Demo,2025-09-05 09:08:00,incoming,Taylor,taylor,Thank you. I am bringing the book you lent me.,false
+App Review Demo,2025-09-05 09:10:00,outgoing,You,you,No rush on the book. See you soon.,false
+App Review Demo,2025-09-05 09:12:00,incoming,Taylor,taylor,See you soon!,false
+App Review Demo,2025-10-11 18:20:00,outgoing,You,you,That movie was funnier than I expected.,false
+App Review Demo,2025-10-11 18:23:00,incoming,Taylor,taylor,The museum scene made me laugh so hard.,false
+App Review Demo,2025-10-11 18:25:00,outgoing,You,you,Same. Should we watch the sequel next week?,false
+App Review Demo,2025-10-11 18:31:00,incoming,Taylor,taylor,Absolutely. Tuesday or Thursday works for me.,false
+App Review Demo,2025-10-11 18:33:00,outgoing,You,you,Let us plan on Thursday.,false
+App Review Demo,2025-10-11 18:37:00,incoming,Taylor,taylor,Thursday it is.,false
+App Review Demo,2025-11-22 12:02:00,outgoing,You,you,I found the soup recipe we talked about.,false
+App Review Demo,2025-11-22 12:06:00,incoming,Taylor,taylor,Please send it. I need an easy dinner idea.,false
+App Review Demo,2025-11-22 12:08:00,outgoing,You,you,It takes about thirty minutes and uses one pot.,false
+App Review Demo,2025-11-22 12:14:00,incoming,Taylor,taylor,That is exactly my level of ambition today.,false
+App Review Demo,2025-11-22 12:16:00,outgoing,You,you,You have got this. Add extra garlic.,false
+App Review Demo,2025-11-22 12:21:00,incoming,Taylor,taylor,Extra garlic is always the answer.,false
+App Review Demo,2025-12-18 20:40:00,outgoing,You,you,Thanks for helping with the decorations tonight.,false
+App Review Demo,2025-12-18 20:43:00,incoming,Taylor,taylor,Of course. The paper stars turned out great.,false
+App Review Demo,2025-12-18 20:45:00,outgoing,You,you,I still cannot believe we made twenty of them.,false
+App Review Demo,2025-12-18 20:51:00,incoming,Taylor,taylor,Only nineteen survived the tape incident.,false
+App Review Demo,2025-12-18 20:53:00,outgoing,You,you,We honor the fallen star.,false
+App Review Demo,2025-12-18 20:58:00,incoming,Taylor,taylor,A true crafting legend.,false
+App Review Demo,2026-01-09 07:45:00,outgoing,You,you,Want to take a walk after work?,false
+App Review Demo,2026-01-09 07:49:00,incoming,Taylor,taylor,Yes. I have been inside all day.,false
+App Review Demo,2026-01-09 07:51:00,outgoing,You,you,Let us meet at the north trail at five thirty.,false
+App Review Demo,2026-01-09 07:57:00,incoming,Taylor,taylor,I will bring water and a warm jacket.,false
+App Review Demo,2026-01-09 07:59:00,outgoing,You,you,Good call. It is colder than it looks.,false
+App Review Demo,2026-01-09 08:03:00,incoming,Taylor,taylor,See you after work.,false
+App Review Demo,2026-02-14 14:10:00,outgoing,You,you,The bakery still has those lemon cookies.,false
+App Review Demo,2026-02-14 14:13:00,incoming,Taylor,taylor,Please tell me you bought two.,false
+App Review Demo,2026-02-14 14:15:00,outgoing,You,you,I bought four because I know us.,false
+App Review Demo,2026-02-14 14:19:00,incoming,Taylor,taylor,This is why our friendship works.,false
+App Review Demo,2026-02-14 14:21:00,outgoing,You,you,I will save yours for tonight.,false
+App Review Demo,2026-02-14 14:26:00,incoming,Taylor,taylor,You are the best.,false
+App Review Demo,2026-03-06 16:30:00,outgoing,You,you,How did the presentation go?,false
+App Review Demo,2026-03-06 16:34:00,incoming,Taylor,taylor,Better than expected. I was nervous at first.,false
+App Review Demo,2026-03-06 16:36:00,outgoing,You,you,I knew you would do well.,false
+App Review Demo,2026-03-06 16:42:00,incoming,Taylor,taylor,Your practice questions really helped.,false
+App Review Demo,2026-03-06 16:44:00,outgoing,You,you,I am glad. You did the hard part.,false
+App Review Demo,2026-03-06 16:49:00,incoming,Taylor,taylor,Thank you for cheering me on.,false
+App Review Demo,2026-04-19 10:05:00,outgoing,You,you,Do you want to try the farmers market?,false
+App Review Demo,2026-04-19 10:09:00,incoming,Taylor,taylor,Yes. I need flowers and something for lunch.,false
+App Review Demo,2026-04-19 10:11:00,outgoing,You,you,I vote for the dumpling stand.,false
+App Review Demo,2026-04-19 10:16:00,incoming,Taylor,taylor,Strong vote. Their spicy sauce is excellent.,false
+App Review Demo,2026-04-19 10:18:00,outgoing,You,you,I will meet you by the entrance at noon.,false
+App Review Demo,2026-04-19 10:22:00,incoming,Taylor,taylor,Deal. I will be there.,false
+App Review Demo,2026-05-23 21:15:00,outgoing,You,you,That game ending was ridiculous.,false
+App Review Demo,2026-05-23 21:18:00,incoming,Taylor,taylor,I thought we had lost with two minutes left.,false
+App Review Demo,2026-05-23 21:20:00,outgoing,You,you,The final shot changed everything.,false
+App Review Demo,2026-05-23 21:26:00,incoming,Taylor,taylor,I probably scared my neighbors cheering.,false
+App Review Demo,2026-05-23 21:28:00,outgoing,You,you,They will understand when they see the replay.,false
+App Review Demo,2026-05-23 21:33:00,incoming,Taylor,taylor,I am already watching it again.,false
+App Review Demo,2026-06-12 08:25:00,outgoing,You,you,I am sorry I missed your call last night.,false
+App Review Demo,2026-06-12 08:29:00,incoming,Taylor,taylor,No problem. I just wanted your opinion on the trip.,false
+App Review Demo,2026-06-12 08:31:00,outgoing,You,you,I like the cabin near the lake.,false
+App Review Demo,2026-06-12 08:37:00,incoming,Taylor,taylor,Me too. It has a great porch and enough beds.,false
+App Review Demo,2026-06-12 08:39:00,outgoing,You,you,Let us book it before the weekend.,false
+App Review Demo,2026-06-12 08:44:00,incoming,Taylor,taylor,I will confirm with everyone today.,false
+App Review Demo,2026-07-04 11:50:00,outgoing,You,you,What time should I bring the picnic food?,false
+App Review Demo,2026-07-04 11:54:00,incoming,Taylor,taylor,Come by around three. We will eat at four.,false
+App Review Demo,2026-07-04 11:56:00,outgoing,You,you,I made pasta salad and packed cold drinks.,false
+App Review Demo,2026-07-04 12:01:00,incoming,Taylor,taylor,Amazing. I have fruit and sandwiches.,false
+App Review Demo,2026-07-04 12:03:00,outgoing,You,you,Looks like we are ready.,false
+App Review Demo,2026-07-04 12:08:00,incoming,Taylor,taylor,See you this afternoon!,false
