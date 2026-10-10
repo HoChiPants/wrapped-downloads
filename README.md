@@ -14,4 +14,4 @@ Public, static distribution site for ChatRecap. The application source remains i
 
 `downloads/ChatRecap-for-Windows.exe` and its SHA-256 checksum are replaced automatically by tagged Windows builds from the private build workflow.
 
-Legacy installer URLs remain available for existing app versions. ChatRecap-named downloads preserve the signed installer bytes until the refreshed companion build is published.
+Legacy installer URLs remain available for existing app versions. The Mac companion is signed and notarized under its ChatRecap name; the Windows companion uses ChatRecap branding and remains an unsigned beta.
