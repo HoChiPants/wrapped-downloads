@@ -1,0 +1,168 @@
+{
+  "baseUrl": "https://hochipants.github.io/wrapped-downloads/",
+  "previews": [
+    {
+      "app": "NotifySpend",
+      "slug": "notifyspend",
+      "tagline": "See where your money goes.",
+      "kind": "screenshots",
+      "video": "assets/previews/notifyspend-v1.mp4",
+      "poster": "assets/previews/notifyspend-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 113890,
+      "posterBytes": 91334,
+      "pages": [
+        "notifyspend/index.html"
+      ]
+    },
+    {
+      "app": "Plotline",
+      "slug": "plotline",
+      "tagline": "Give your story a place to grow.",
+      "kind": "screenshots",
+      "video": "assets/previews/plotline-v1.mp4",
+      "poster": "assets/previews/plotline-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 92009,
+      "posterBytes": 72335,
+      "pages": [
+        "plotline/index.html"
+      ]
+    },
+    {
+      "app": "Token Widget",
+      "slug": "tokenwidget",
+      "tagline": "A little more headroom.",
+      "kind": "screenshots",
+      "video": "assets/previews/tokenwidget-v1.mp4",
+      "poster": "assets/previews/tokenwidget-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 110315,
+      "posterBytes": 81011,
+      "pages": [
+        "tokenwidget/index.html"
+      ]
+    },
+    {
+      "app": "HSA Keeper",
+      "slug": "hsakeeper",
+      "tagline": "Keep expenses and receipts together.",
+      "kind": "screenshots",
+      "video": "assets/previews/hsakeeper-v1.mp4",
+      "poster": "assets/previews/hsakeeper-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 79219,
+      "posterBytes": 81258,
+      "pages": [
+        "hsakeeper/index.html"
+      ]
+    },
+    {
+      "app": "Ward Cookbook",
+      "slug": "cookbook",
+      "tagline": "Recipes worth keeping.",
+      "kind": "screenshots",
+      "video": "assets/previews/cookbook-v1.mp4",
+      "poster": "assets/previews/cookbook-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 82469,
+      "posterBytes": 80928,
+      "pages": [
+        "cookbook/index.html"
+      ]
+    },
+    {
+      "app": "Float Duty",
+      "slug": "float-duty",
+      "tagline": "Keep the shift afloat.",
+      "kind": "screenshots",
+      "video": "assets/previews/float-duty-v1.mp4",
+      "poster": "assets/previews/float-duty-v1.jpg",
+      "width": 1280,
+      "height": 720,
+      "posterWidth": 1280,
+      "posterHeight": 720,
+      "duration": 9.0,
+      "videoBytes": 128862,
+      "posterBytes": 48891,
+      "pages": [
+        "float-duty/index.html"
+      ]
+    },
+    {
+      "app": "Daily Dine",
+      "slug": "dailydine",
+      "tagline": "Keep your meal plans organized.",
+      "kind": "screenshots",
+      "video": "assets/previews/dailydine-v1.mp4",
+      "poster": "assets/previews/dailydine-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 112397,
+      "posterBytes": 92146,
+      "pages": [
+        "dailydine/index.html"
+      ]
+    },
+    {
+      "app": "Tidekeeper",
+      "slug": "tidekeeper",
+      "tagline": "Explore the next expedition.",
+      "kind": "screenshots",
+      "video": "assets/previews/tidekeeper-v1.mp4",
+      "poster": "assets/previews/tidekeeper-v1.jpg",
+      "width": 720,
+      "height": 1280,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 9.0,
+      "videoBytes": 104796,
+      "posterBytes": 90035,
+      "pages": [
+        "tidekeeper/index.html"
+      ]
+    },
+    {
+      "app": "ChatRecap",
+      "slug": "chatrecap",
+      "tagline": "Your conversations, recapped privately.",
+      "kind": "footage",
+      "video": "assets/previews/chatrecap-v1.mp4",
+      "poster": "assets/previews/chatrecap-v1.jpg",
+      "width": 1080,
+      "height": 1920,
+      "posterWidth": 900,
+      "posterHeight": 1600,
+      "duration": 22.0,
+      "videoBytes": 727357,
+      "posterBytes": 68960,
+      "pages": [
+        "chatrecap/index.html",
+        "index.html"
+      ]
+    }
+  ]
+}
